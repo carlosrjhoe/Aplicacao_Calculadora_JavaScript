@@ -38,7 +38,7 @@ body{
     grid-gap: 10px;
 }
 
-.calculator button{
+.calculadora button{
     background-color: black;
     color: white;
     padding: 20px;
